@@ -1,8 +1,8 @@
-API_ID = "28587040"
+api_id = "28587040"
 
-API_HASH = "20f4a4a125d663eb14693cf716788400"
+api_hash = "20f4a4a125d663eb14693cf716788400"
 
-BOT_TOKEN = "6338736604:AAEzmj_3MegOh_QIAzoskhmZVa7d3DlqmRk"
+bot_token = "6338736604:AAEzmj_3MegOh_QIAzoskhmZVa7d3DlqmRk"
 
 GROUP_TAG = "RC"
 
